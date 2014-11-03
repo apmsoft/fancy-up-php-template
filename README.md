@@ -1,5 +1,5 @@
-<p><strong>퓨전 템플릿(Fusion Template)</strong>은 <strong>PHP5</strong> 을 기본엔진으로 하는 프로그램입니다.<br>
-      퓨전이라는 이름에 걸맞게
+<p><strong>템플릿(fancy-up-php-template)</strong>은 <strong>PHP5</strong> 을 기본엔진으로 하는 프로그램입니다.<br>
+      펜시업템플릿이라는 이름에 걸맞게
       보다 복잡하지 않고, 보다 편리하며, 보다 보편적인 방법으로<br>
       작업 할 수 있도록
       만들어 졌습니다.<br>
@@ -15,7 +15,7 @@
       <br>
       <br>
     </p>
-      <p><strong>퓨전</strong> 템플릿의 주요 특징<br>
+      <p><strong>fancy-up-php-template</strong> 템플릿의 주요 특징<br>
         <br>
       </p>
       <table width="100%" border="0" cellspacing="1" cellpadding="0">
