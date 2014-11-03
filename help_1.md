@@ -3,6 +3,7 @@
 펜시업템플릿(fancy-up-php-template)은 PHP5.0 (Standard PHP Library)이상에서 작동합니다.
 
 const compile_dirname = 'compile_';
+
 private $compile_dir = '';
 
 $compile_dir.'/compile_';
