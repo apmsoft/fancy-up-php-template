@@ -1,0 +1,13 @@
+
+Name : {%strings.name%} <br />
+Template : {%strings.template%} <br /><br />
+
+# 루프배열 (총 : {%items.count%} 개)
+
+<ul>
+
+    {%for(items):%}
+    <li><span>배열index : {%items.index%}</span> <span>배열의 타이틀 : {%items.title%}</span></li>
+    {%:for%}
+
+</ul>
