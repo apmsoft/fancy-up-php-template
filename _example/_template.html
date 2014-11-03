@@ -1,9 +1,11 @@
+{% include_once './header.html' %}
 
-Name : {%strings.name%} <br />
+
+<body>
+Name : {%strings.app_name%} <br />
 Template : {%strings.template%} <br /><br />
 
 # 루프배열 (총 : {%items.count%} 개)
-
 <ul>
 
     {%for(items):%}
@@ -11,3 +13,5 @@ Template : {%strings.template%} <br /><br />
     {%:for%}
 
 </ul>
+</body>
+{% include_once './footer.html' %}
